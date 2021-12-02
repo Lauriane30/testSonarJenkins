@@ -1,0 +1,6 @@
+projectKey=CalculatriceSonar
+serverUrl=http://localhost:9000
+serverVersion=9.2.1.49989
+dashboardUrl=http://localhost:9000/dashboard?id=CalculatriceSonar
+ceTaskId=AX12z9KI4Ec5bd39HLOy
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX12z9KI4Ec5bd39HLOy
